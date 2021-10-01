@@ -1,4 +1,4 @@
-for (var i=1; i<=20; i++)
+for (var i=1; i<=2; i++)
 {
     if (i% 3==0)
     console.log("Fizz");
